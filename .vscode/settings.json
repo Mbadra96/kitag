@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.cps": "javascript",
+    "ctype.h": "c",
+    "string.h": "c",
+    "stdbool.h": "c"
+  }
+}
